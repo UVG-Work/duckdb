@@ -7,30 +7,6 @@ Este es el repositorio **proporcionado por el docente**. Contiene la estructura
 del proyecto, el ambiente de ejecucion basado en Docker y un script que descarga
 los datos de **2026**. Todo lo demas debe ser construido por cada equipo.
 
-## Trabajo con fork
-
-El laboratorio se desarrolla y se entrega sobre un **fork** de este repositorio.
-No se trabaja directamente sobre el repositorio del docente.
-
-1. Realice un fork de este repositorio:
-   <https://github.com/menene/duckdb>
-
-2. Clone **su propio fork** (no el del docente):
-
-   ```bash
-   git clone https://github.com/<su-usuario>/duckdb.git
-   cd duckdb
-   ```
-
-3. Opcional, para recibir correcciones publicadas por el docente:
-
-   ```bash
-   git remote add upstream https://github.com/menene/duckdb.git
-   git fetch upstream
-   ```
-
-Realice commits frecuentes y descriptivos: el historial del repositorio es parte
-de la evaluacion. **La entrega del laboratorio es la URL de su fork.**
 
 ## Estructura
 
